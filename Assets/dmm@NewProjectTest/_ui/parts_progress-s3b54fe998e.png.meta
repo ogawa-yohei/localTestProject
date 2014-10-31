@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: b44ccd5f7e4dc37449fc5e5cdad4c0d4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: parts_progress-s3b54fe998e_0
+    21300002: parts_progress-s3b54fe998e_1
+    21300004: parts_progress-s3b54fe998e_2
+    21300006: parts_progress-s3b54fe998e_3
+    21300008: parts_progress-s3b54fe998e_4
+    21300010: parts_progress-s3b54fe998e_5
+    21300012: parts_progress-s3b54fe998e_6
+    21300014: parts_progress-s3b54fe998e_7
+    21300016: parts_progress-s3b54fe998e_8
+    21300018: parts_progress-s3b54fe998e_9
+    21300020: parts_progress-s3b54fe998e_10
+    21300022: parts_progress-s3b54fe998e_11
+    21300024: parts_progress-s3b54fe998e_12
+    21300026: parts_progress-s3b54fe998e_13
+    21300028: parts_progress-s3b54fe998e_14
+    21300030: parts_progress-s3b54fe998e_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: parts_progress-s3b54fe998e_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 607
+        width: 64
+        height: 84
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 532
+        width: 82
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 78
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 56
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts_progress-s3b54fe998e_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 4094299e8287fb5439739b5c53de9ead
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: parts-s9f71749c6c_0
+    21300002: parts-s9f71749c6c_1
+    21300004: parts-s9f71749c6c_2
+    21300006: parts-s9f71749c6c_3
+    21300008: parts-s9f71749c6c_4
+    21300010: parts-s9f71749c6c_5
+    21300012: parts-s9f71749c6c_6
+    21300014: parts-s9f71749c6c_7
+    21300016: parts-s9f71749c6c_8
+    21300018: parts-s9f71749c6c_9
+    21300020: parts-s9f71749c6c_10
+    21300022: parts-s9f71749c6c_11
+    21300024: parts-s9f71749c6c_12
+    21300026: parts-s9f71749c6c_13
+    21300028: parts-s9f71749c6c_14
+    21300030: parts-s9f71749c6c_15
+    21300032: parts-s9f71749c6c_16
+    21300034: parts-s9f71749c6c_17
+    21300036: parts-s9f71749c6c_18
+    21300038: parts-s9f71749c6c_19
+    21300040: parts-s9f71749c6c_20
+    21300042: parts-s9f71749c6c_21
+    21300044: parts-s9f71749c6c_22
+    21300046: parts-s9f71749c6c_23
+    21300048: parts-s9f71749c6c_24
+    21300050: parts-s9f71749c6c_25
+    21300052: parts-s9f71749c6c_26
+    21300054: parts-s9f71749c6c_27
+    21300056: parts-s9f71749c6c_28
+    21300058: parts-s9f71749c6c_29
+    21300060: parts-s9f71749c6c_30
+    21300062: parts-s9f71749c6c_31
+    21300064: parts-s9f71749c6c_32
+    21300066: parts-s9f71749c6c_33
+    21300068: parts-s9f71749c6c_34
+    21300070: parts-s9f71749c6c_35
+    21300072: parts-s9f71749c6c_36
+    21300074: parts-s9f71749c6c_37
+    21300076: parts-s9f71749c6c_38
+    21300078: parts-s9f71749c6c_39
+    21300080: parts-s9f71749c6c_40
+    21300082: parts-s9f71749c6c_41
+    21300084: parts-s9f71749c6c_42
+    21300086: parts-s9f71749c6c_43
+    21300088: parts-s9f71749c6c_44
+    21300090: parts-s9f71749c6c_45
+    21300092: parts-s9f71749c6c_46
+    21300094: parts-s9f71749c6c_47
+    21300096: parts-s9f71749c6c_48
+    21300098: parts-s9f71749c6c_49
+    21300100: parts-s9f71749c6c_50
+    21300102: parts-s9f71749c6c_51
+    21300104: parts-s9f71749c6c_52
+    21300106: parts-s9f71749c6c_53
+    21300108: parts-s9f71749c6c_54
+    21300110: parts-s9f71749c6c_55
+    21300112: parts-s9f71749c6c_56
+    21300114: parts-s9f71749c6c_57
+    21300116: parts-s9f71749c6c_58
+    21300118: parts-s9f71749c6c_59
+    21300120: parts-s9f71749c6c_60
+    21300122: parts-s9f71749c6c_61
+    21300124: parts-s9f71749c6c_62
+    21300126: parts-s9f71749c6c_63
+    21300128: parts-s9f71749c6c_64
+    21300130: parts-s9f71749c6c_65
+    21300132: parts-s9f71749c6c_66
+    21300134: parts-s9f71749c6c_67
+    21300136: parts-s9f71749c6c_68
+    21300138: parts-s9f71749c6c_69
+    21300140: parts-s9f71749c6c_70
+    21300142: parts-s9f71749c6c_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: parts-s9f71749c6c_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3727
+        width: 102
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3519
+        width: 102
+        height: 204
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3467
+        width: 140
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3424
+        width: 171
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3381
+        width: 142
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3347
+        width: 224
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3305
+        width: 106
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3244
+        width: 508
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3186
+        width: 93
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3117
+        width: 57
+        height: 61
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3075
+        width: 106
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 228
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2971
+        width: 57
+        height: 61
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2902
+        width: 44
+        height: 53
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2683
+        width: 98
+        height: 204
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2607
+        width: 40
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2528
+        width: 44
+        height: 63
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2476
+        width: 25
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2442
+        width: 228
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2361
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2338
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2234
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2231
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2234
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2139
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2043
+        width: 80
+        height: 87
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2012
+        width: 255
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1985
+        width: 83
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1886
+        width: 76
+        height: 87
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1805
+        width: 21
+        height: 76
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1724
+        width: 46
+        height: 49
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1674
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1621
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1563
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1509
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1452
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1387
+        width: 79
+        height: 53
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1333
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1268
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1226
+        width: 50
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1103
+        width: 67
+        height: 119
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1061
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015
+        width: 52
+        height: 42
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923
+        width: 90
+        height: 88
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 838
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 807
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 781
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 662
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 48
+        height: 46
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 547
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 516
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 152
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 152
+        height: 65
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 90
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 90
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 152
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 29
+        height: 61
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 52
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 171
+        height: 77
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 171
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 63
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parts-s9f71749c6c_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
